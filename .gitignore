@@ -1,0 +1,25 @@
+# Compiled Target Output
+target/
+build/
+.gradle/
+
+# Log files
+*.log
+
+# Local/Secret Configurations
+.env
+application-local.properties
+application-local.yml
+
+# IntelliJ IDEA workspace
+.idea/
+*.iml
+*.iws
+
+# Eclipse workspace
+.classpath
+.project
+.settings/
+
+# VS Code workspace
+.vscode/
